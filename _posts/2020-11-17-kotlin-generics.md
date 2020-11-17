@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Genéricos en Kotlin"
 permalink: /kotlin-generics/
 ---
